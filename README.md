@@ -1,13 +1,16 @@
 # Classic Cassette Deck Processing Sketch
 
-Maura Gerke
-June 5, 2018
-CE4: Interface Sound Design in Processing
+### Maura Gerke
+
+### June 5, 2018
+
+### CE4: Interface Sound Design in Processing
+
 
 ## Design
 
 My cassette deck was inspired by the portable/personal tape players I used in elementary school for listening quizzes. I tried to make a more modern-looking version with the same general UI layout for this project. It's more simplified since it doesn't have the recording and eject features and the volume knob is moved from the side to make it functional as part of the player.
-![personal cassette player](https://www.bhphotovideo.com/c/product/796979-REG/Califone_CAS1500_CAS1500_Cassette_Player_Recorder.html)
+![personal cassette player](https://store.schoolspecialty.com/OA_HTML/xxssi_ibeGetWCCImage.jsp?docName=F1633054&Rendition=Large)
 
 ## Functionality
 
